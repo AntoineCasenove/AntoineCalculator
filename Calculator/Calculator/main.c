@@ -8,9 +8,7 @@ int addition(int a, int b)
 
 int main()
 {
-	a = 2;
-	b = 6;
-	addition(a,b);
+	printf("%d", addition(2, 3));
 	system("PAUSE");
 	return 0;
 }
