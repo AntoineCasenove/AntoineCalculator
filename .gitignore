@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+*.vcxproj
+Calculator/.vs/Calculator/v15/.suo
+Calculator/.vs/Calculator/v15/Browse.VC.db
+*.opendb
+Calculator/Calculator.sln
+Calculator/Calculator/Calculator.vcxproj.filters
+Calculator/.vs/Calculator/v15/ipch/AutoPCH/8b3df4c2b78033c3/MAIN.ipch
