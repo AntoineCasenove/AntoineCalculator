@@ -1,10 +1,16 @@
 #include <stdlib.h>
 #include <stdio.h>
 
+int addition(int a, int b)
+{
+	return a+b;
+}
+
 int main()
 {
-	int a = 0;
-	printf("%d", a);
+	a = 2;
+	b = 6;
+	addition(a,b);
 	system("PAUSE");
 	return 0;
 }
