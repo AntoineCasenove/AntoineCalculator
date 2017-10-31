@@ -1,4 +1,4 @@
-IF (dm==fais
+IF (dm==fais)
 {
  toi == aide
  aide + hugo = DMreussie
