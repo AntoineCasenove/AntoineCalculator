@@ -3,7 +3,7 @@
 
 int addition(int a, int b)
 {
-	return aeqwkiswsq;
+	return a+b;
 }
 
 int main()
@@ -12,5 +12,10 @@ int main()
 	b = 6;
 	addition(a,b);
 	system("PAUSE");
+	printf ("coucou\n");
+	printf ("robin est pas tres doué");
+	printf ("voire pas du tout");
+
+
 	return 0;
 }
